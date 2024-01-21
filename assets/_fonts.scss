@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "Intro";
+	src: url("./fonts/into-regular/fonts/intro.eot"); /* IE 9 Compatibility Mode */
+	src: url("./fonts/into-regular/fonts/intro.eot?#iefix") format("embedded-opentype"),
+		/* IE < 9 */ url("./fonts/into-regular/fonts/intro.woff2") format("woff2"),
+		/* Super Modern Browsers */ url("./fonts/into-regular/fonts/intro.woff") format("woff"),
+		/* Firefox >= 3.6, any other modern browser */ url("./fonts/into-regular/fonts/intro.ttf") format("truetype"),
+		/* Safari, Android, iOS */ url("./fonts/into-regular/fonts/intro.svg#intro") format("svg"); /* Chrome < 4, Legacy iOS */
+}
+
+@font-face {
+	font-family: "RSL";
+	src: url("./fonts/roboto_slab_light/fonts/roboto_slab_light.eot"); /* IE 9 Compatibility Mode */
+	src: url("./fonts/roboto_slab_light/fonts/roboto_slab_light.eot?#iefix") format("embedded-opentype"),
+		/* IE < 9 */ url("./fonts/roboto_slab_light/fonts/roboto_slab_light.woff2") format("woff2"),
+		/* Super Modern Browsers */ url("./fonts/roboto_slab_light/fonts/roboto_slab_light.woff") format("woff"),
+		/* Firefox >= 3.6, any other modern browser */ url("./fonts/roboto_slab_light/fonts/roboto_slab_light.ttf") format("truetype"),
+		/* Safari, Android, iOS */ url("./fonts/roboto_slab_light/fonts/roboto_slab_light.svg#roboto_slab_light") format("svg"); /* Chrome < 4, Legacy iOS */
+}

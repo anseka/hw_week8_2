@@ -1,0 +1,62 @@
+@import "./fonts";
+@import "./vars";
+@import "./extends";
+
+body {
+	font-size: 20px;
+	// font-family: RSL, sans-serif;
+	background-color: $white;
+}
+
+p,
+.text-p {
+	font-family: RSL, sans-serif;
+}
+
+h1 {
+	font-size: $header1;
+	font-family: Intro, sans-serif;
+}
+h2,
+.header2 {
+	font-size: $header2;
+	font-size: 1.75rem;
+	font-family: Intro, sans-serif;
+}
+h3 {
+	font-size: $header3;
+	font-size: 1.5rem;
+	font-family: Intro, sans-serif;
+}
+h4 {
+	font-size: 0.65rem;
+	font-family: Intro, sans-serif;
+}
+
+.textbuttin {
+	font-size: $textbuttin;
+	font-size: 0.65rem;
+	font-family: Intro, sans-serif;
+}
+
+.font-intro {
+	font-size: $header1;
+	font-family: Intro, sans-serif;
+	font-weight: bolder;
+}
+
+.secondcolor {
+	background-color: $secondcolor;
+}
+
+.firstcolor {
+	background-color: $firstcolor;
+}
+
+.textcolor {
+	color: $secondcolor;
+}
+
+.border-color {
+	border: 1px solid $bordercolor;
+}
